@@ -1,3 +1,3 @@
 # Sayar-Wish
 ဆရာကန်တော့ပွဲအတွက်
-https://steve-htet.github.io/Sayar-Wish/
+https://moemyint13.github.io/Wish_page/
